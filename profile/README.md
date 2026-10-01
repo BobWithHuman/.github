@@ -1,4 +1,4 @@
-![WithHuman Logo](withhuman_logo_exact.svg "WithHuman Logo")
+<img src="withhuman_logo_exact.svg" alt="WithHuman Logo" title="WithHuman Logo" width="300">
 
 ## Welcome!
 
