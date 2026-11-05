@@ -7,6 +7,7 @@ If you think you have discovered a security issue, **please do NOT open a public
 Instead, report it privately through the repository's **Security → Report a vulnerability** menu (GitHub Private Vulnerability Reporting).
 
 - withhuman-core: https://github.com/BobWithHuman/withhuman-core/security/advisories/new
+- withhuman-viewer: https://github.com/BobWithHuman/withhuman-viewer/security/advisories/new
 
 To help us respond quickly, please include:
 
